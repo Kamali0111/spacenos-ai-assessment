@@ -92,17 +92,17 @@ prototype/      → future implementation ideas
 
 ## Dashboard Audit
 
-![Dashboard](docs/screenshots/dashboard.png)
+![Dashboard](focus-page.png)
 
 ## Notes Interface
 
-![Notes](docs/screenshots/notes.png)
+![Notes](notes-page.png)
 
 ---
 
 # Architecture Diagram
 
-![Architecture](docs/diagrams/offline-sync.png)
+![Architecture](offline-sync-architecture.png)
 
 ---
 
