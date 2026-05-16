@@ -117,6 +117,24 @@ prototype/      → future implementation ideas
 7. Maintainable architecture
 
 ---
+# Future Prototype Direction
+
+Planned implementation stack:
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Supabase
+- IndexedDB
+- Zustand
+
+Potential features:
+- offline task sync
+- AI-assisted planning
+- ADHD-friendly focus mode
+- token-driven theming
+---
 
 # Author
 
